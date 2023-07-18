@@ -20,6 +20,14 @@ With our years of experience in the tech industry, we provide consultancy servic
 
 You'll find various repositories on our GitHub, which range from open-source projects, internal tools, to some of the coolest game prototypes. Feel free to explore, use, or contribute to them.
 
+<!-- Top Skills -->
+ ## 💻 Most Used Languages
+<div align="center">
+  <a href="https://github.com/Crazy-Tek-Studios">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,svelte,tailwind,html,css,js,ts,postgres,git,github,docker," />
+  </a>
+</div>
+
 <!-- 
 ## 👥 Connect With Us
 
